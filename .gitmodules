@@ -1,0 +1,6 @@
+[submodule "lib/external/js/design-patterns-1"]
+	path = lib/external/js/design-patterns-1
+	url = https://github.com/tcorral/Design-Patterns-in-Javascript.git
+[submodule "lib/external/js/patterns-collection-sorted-1"]
+	path = lib/external/js/patterns-collection-sorted-1
+	url = https://github.com/shichuan/javascript-patterns.git
